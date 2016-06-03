@@ -1,0 +1,19 @@
+@import url(./fonts/jaldi.css);
+html {
+  font-size: 100%; }
+
+body {
+  padding: 10px;
+  font: 100% "Jaldi", sans-serif; }
+  body h1 {
+    margin: 0;
+    color: lightblue;
+    padding: 0; }
+  body p {
+    margin: 0;
+    color: magenta; }
+
+a {
+  color: #00B7FF; }
+
+/*# sourceMappingURL=style.css.map */
